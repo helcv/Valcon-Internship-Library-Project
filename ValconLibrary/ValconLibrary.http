@@ -1,0 +1,6 @@
+@ValconLibrary_HostAddress = http://localhost:5188
+
+GET {{ValconLibrary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
